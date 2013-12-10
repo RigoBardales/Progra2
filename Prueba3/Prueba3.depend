@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383975789 source:c:\users\rodman\documents\github\prueba3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

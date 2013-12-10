@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386197451 source:c:\users\rodman\documents\github\cadenas3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

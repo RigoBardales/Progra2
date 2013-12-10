@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386629053 source:c:\users\rodman\documents\github\ejercicio extra\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

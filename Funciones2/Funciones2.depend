@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384297529 source:c:\users\rodman\documents\github\funciones2\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
